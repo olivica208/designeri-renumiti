@@ -1,0 +1,37 @@
+body {
+    background-color: cyan;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 20px 40px;
+  }
+  
+  h1 {
+    color: #002c5a;
+    font-size: 28px;
+  }
+  
+  h2 {
+    color: #002c5a;
+    font-size: 22px;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #222;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  hr {
+    margin: 20px 0;
+    border: 1px solid #009999;
+  }
+  
